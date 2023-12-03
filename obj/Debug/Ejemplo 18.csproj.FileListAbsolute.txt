@@ -1,0 +1,11 @@
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\obj\Debug\Ejemplo 18.csproj.AssemblyReference.cache
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\obj\Debug\Ejemplo_18.frmEjemplo18.resources
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\obj\Debug\Ejemplo_18.frmCaptura.resources
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\obj\Debug\Ejemplo_18.Properties.Resources.resources
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\obj\Debug\Ejemplo 18.csproj.GenerateResource.cache
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\obj\Debug\Ejemplo 18.csproj.CoreCompileInputs.cache
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\bin\Debug\Ejemplo 18.exe.config
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\bin\Debug\Ejemplo 18.exe
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\bin\Debug\Ejemplo 18.pdb
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\obj\Debug\Ejemplo 18.exe
+C:\Users\gisel\Downloads\Programación\Ejemplo 18\obj\Debug\Ejemplo 18.pdb
